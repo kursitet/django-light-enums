@@ -49,7 +49,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         "Django>=1.8",
-        "six==1.10.0",
+        "six>=1.10.0",
     ],
     classifiers=[
         "Framework :: Django",
